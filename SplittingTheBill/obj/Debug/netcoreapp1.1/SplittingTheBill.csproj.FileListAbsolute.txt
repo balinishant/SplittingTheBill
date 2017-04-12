@@ -1,0 +1,8 @@
+C:\Users\Nishant\documents\visual studio 2017\Projects\SplittingTheBill\SplittingTheBill\bin\Debug\netcoreapp1.1\SplittingTheBill.deps.json
+C:\Users\Nishant\documents\visual studio 2017\Projects\SplittingTheBill\SplittingTheBill\bin\Debug\netcoreapp1.1\SplittingTheBill.runtimeconfig.json
+C:\Users\Nishant\documents\visual studio 2017\Projects\SplittingTheBill\SplittingTheBill\bin\Debug\netcoreapp1.1\SplittingTheBill.runtimeconfig.dev.json
+C:\Users\Nishant\documents\visual studio 2017\Projects\SplittingTheBill\SplittingTheBill\bin\Debug\netcoreapp1.1\SplittingTheBill.dll
+C:\Users\Nishant\documents\visual studio 2017\Projects\SplittingTheBill\SplittingTheBill\bin\Debug\netcoreapp1.1\SplittingTheBill.pdb
+C:\Users\Nishant\documents\visual studio 2017\Projects\SplittingTheBill\SplittingTheBill\obj\Debug\netcoreapp1.1\SplittingTheBill.AssemblyInfo.cs
+C:\Users\Nishant\documents\visual studio 2017\Projects\SplittingTheBill\SplittingTheBill\obj\Debug\netcoreapp1.1\SplittingTheBill.dll
+C:\Users\Nishant\documents\visual studio 2017\Projects\SplittingTheBill\SplittingTheBill\obj\Debug\netcoreapp1.1\SplittingTheBill.pdb
